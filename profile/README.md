@@ -1,4 +1,4 @@
-## Welcome to Whop 👋 
+# Welcome to Whop 👋 
 
 ## We power thousands of software developers to build power apps and sell them directly on the Whop Marketplace. Get started below by using one of our pre-made templates or SDKs.
 
