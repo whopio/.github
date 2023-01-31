@@ -1,6 +1,6 @@
 # Welcome to Whop 👋 
 
-## We power thousands of software developers to build power apps and sell them directly on the [Whop Marketplace](https://whop.com). Get started below by using one of our pre-made templates or SDKs.
+## We power thousands of software developers to build powerful apps and sell them directly on the [Whop Marketplace](https://whop.com). Get started below by using one of our pre-made templates or SDKs.
 
 ## Important Links
 - [View our software docs](https://docs.whop.com/software-intro)
