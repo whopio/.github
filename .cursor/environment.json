@@ -7,5 +7,5 @@
       "command": "cd .cursor/preview && PORT=3000 node server.mjs"
     }
   ],
-  "ports": [3000]
+  "ports": [{ "name": "profile-preview", "port": 3000 }]
 }
