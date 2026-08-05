@@ -1,0 +1,11 @@
+{
+  "name": "Whop org profile (.github)",
+  "install": "cd .cursor/preview && npm ci",
+  "terminals": [
+    {
+      "name": "profile-preview",
+      "command": "cd .cursor/preview && PORT=3000 node server.mjs"
+    }
+  ],
+  "ports": [3000]
+}
